@@ -5,6 +5,7 @@ Stacks = Node.js, Fastify, Prisma, Postgre, Cloudflare R2
 ## Requisitos Funcionais (Rfs):
 - [ ] Deve ser possível realizar novos uploads;
 - [ ] Deve ser possivel visualizar os últimos 5 uploads realizados;
+- [ ] Deve utilizar presing Urls
 
 ## Regras de Negocios (RNs):
 - [ ] Os uploads devem ser removidos automaticamente após 7 dias;
